@@ -1,5 +1,5 @@
 # Portfolio
-Vinny Nguyen's SPE SJSU Flyers various iterations showcase 
+SPE SJSU Flyers various iterations showcase 
 
 Iteration 1 showcases the first iteration of the rudimentary flyer.
 Linked below is a HTML previewer of "Iteration 1"
