@@ -8,3 +8,5 @@ https://htmlpreview.github.io/?https://github.com/SirFinleyNewman/Portfolio/blob
 ImprovedIteration 2 showcases the following iteration of the flyer.
 Linked below is an HTML previewer of the code
 https://htmlpreview.github.io/?https://github.com/SirFinleyNewman/Portfolio/blob/master/ImprovedIteration2.html
+
+Iteration 3 showcases the changes following improvements from ImprovedIteration2
